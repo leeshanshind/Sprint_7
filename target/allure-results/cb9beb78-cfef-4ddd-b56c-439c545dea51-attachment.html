@@ -1,0 +1,39 @@
+<div>POST to https://qa-scooter.education-services.ru/api/v1/orders</div>
+
+    <h4>Body</h4>
+    <div>
+    <pre class="preformated-text">
+{
+    &quot;firstName&quot;: &quot;Алексей&quot;,
+    &quot;lastName&quot;: &quot;Иванов&quot;,
+    &quot;address&quot;: &quot;Москва, ул. Ленина, 1&quot;,
+    &quot;metroStation&quot;: 88,
+    &quot;phone&quot;: &quot;+79990557889&quot;,
+    &quot;rentTime&quot;: 6,
+    &quot;deliveryDate&quot;: &quot;2026-10-09&quot;,
+    &quot;comment&quot;: &quot;Код домофона 123&quot;
+}    </pre>
+    </div>
+
+    <h4>Headers</h4>
+    <div>
+            <div>Accept: */*</div>
+            <div>Content-Type: application/json</div>
+    </div>
+
+
+
+    <h4>Curl</h4>
+    <div>
+        curl -v -X POST &#39;https://qa-scooter.education-services.ru/api/v1/orders&#39; -H &#39;Accept: */*&#39; -H &#39;Content-Type: application/json&#39; -d &#39;{
+    &quot;firstName&quot;: &quot;Алексей&quot;,
+    &quot;lastName&quot;: &quot;Иванов&quot;,
+    &quot;address&quot;: &quot;Москва, ул. Ленина, 1&quot;,
+    &quot;metroStation&quot;: 88,
+    &quot;phone&quot;: &quot;+79990557889&quot;,
+    &quot;rentTime&quot;: 6,
+    &quot;deliveryDate&quot;: &quot;2026-10-09&quot;,
+    &quot;comment&quot;: &quot;Код домофона 123&quot;
+}&#39;
+    </div>
+

@@ -1,0 +1,1 @@
+{"uuid":"d8642215-1c51-4c1c-a38f-f056c0a92ed8","name":"Принятие заказа: PUT /api/v1/orders/accept/:id","children":["b1a7560f-8d97-4cb6-ac37-164c00c12d09","800765c7-ea27-4832-ba0b-14c03f71797e","5ab2c302-d418-42b2-aa9f-082483a1946c","16ae38bc-aa9c-4a81-9962-2ab27b795a8b","f9c93b36-4fe0-4ecc-801f-dc6ce95ba6d2"],"befores":[],"afters":[],"start":1791455969237,"stop":1791455984286}
