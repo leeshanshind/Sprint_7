@@ -1,0 +1,1 @@
+{"uuid":"be0469ba-03ad-4232-85f4-d3fd409f87e3","name":"Удаление курьера: DELETE /api/v1/courier/:id","children":["6e254d09-591b-4a09-b626-46d87a07e68d","7810ea78-92fd-4b23-b175-b48d6fe5114d","bb417b09-90c5-483b-b112-d3a39c0f95f3"],"befores":[],"afters":[],"start":1791456000511,"stop":1791456005468}
